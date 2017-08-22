@@ -1,0 +1,11 @@
+div{
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: center;
+}
+
+#div_child{
+    float:left;
+    width:20%;
+    padding-top:10px;
+}
